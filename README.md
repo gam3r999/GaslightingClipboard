@@ -50,7 +50,7 @@ The moment it launches, **GaslightingClipboard** vanishes completely from sight.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/GaslightingClipboard.git
+git clone https://github.com/gam3r999/GaslightingClipboard.git
 cd GaslightingClipboard
 
 # 2. Drop your clipboard.ico into the project folder (optional)
