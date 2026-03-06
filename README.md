@@ -7,7 +7,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Language](https://img.shields.io/badge/language-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Framework](https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![License](https://img.shields.io/badge/license-Prank-ff69b4?style=for-the-badge)
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-ff69b4?style=for-the-badge&logo=creativecommons&logoColor=white)
 ![Chaos](https://img.shields.io/badge/chaos_level-maximum-red?style=for-the-badge)
 
 <br/>
@@ -186,6 +186,19 @@ This project is a **harmless prank** for use on friends and colleagues who have 
 - ❌ Modify anything outside the clipboard
 
 Use responsibly. Or don't. But don't blame me.
+
+---
+
+## 📜 License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** license.
+
+[![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+You are free to **share** and **adapt** this project as long as you:
+- ✅ Give appropriate credit
+- ❌ Don't use it for commercial purposes
+- 🔄 Distribute your version under the same license
 
 ---
 
